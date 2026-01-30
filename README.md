@@ -1,7 +1,10 @@
-# Mikuru_Tamagotchi_ESP32
+# Mikuru_Tamagotchi_ESP32-儿童版（商店图片替换）
 
 ## 教程网址/Video Tutorial:  
 https://www.bilibili.com/video/BV1TB4y1G7iA/?spm_id_from=333.999.0.0&vd_source=3f07d7b7aa8e5f984ad4adea421e3428
+
+## 2026建议：
+懒得改代码了，用老版本1.8.19的arduino IDE，BoardManager用2.0.4版本的ESP32，应该直接可以成功
 
 ## 材料准备/Material Preparation  
 - LILYGO® T-QT开发板（T-QT Pro ESP32 S3FN8 H588版本）/LILYGO® T-QT Development Board(T-QT Pro ESP32 S3FN8 H588)
